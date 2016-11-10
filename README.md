@@ -1,2 +1,2 @@
 #量子力学
-- [ ] Exercise_01：
+- [x] Exercise_01:https://www.zybuluo.com/xuqiuhao/note/562967
