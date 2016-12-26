@@ -6,3 +6,4 @@
 - [x] Exercise_05:http://www.jianshu.com/p/6bd2bfa78733
 - [x] Exercise_06:http://www.jianshu.com/p/05cbfd6c3d90
 - [x] Exercise_07:http://www.jianshu.com/p/f2024f838eaa
+- [x] Exercise_08:http://www.jianshu.com/p/b561eebf3fd8
